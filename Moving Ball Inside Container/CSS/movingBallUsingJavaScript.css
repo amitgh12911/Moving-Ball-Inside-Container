@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Boundry{
+    background-color: lime;
+    border: 2px solid darkgreen;
+    height: 492.75px;
+    width: 1024.5px;
+    position: absolute;
+    top: calc(50vh - 246.375px);
+    left: calc(50vw - 512.25px);
+}
+
+.ball{
+    background-color: red;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* top: 462.75px; */
+    /* left: 994.5px; */
+}
